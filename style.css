@@ -1,5 +1,5 @@
 #maphoto{
-    width: 180px;
+    width: 200px;
 
 }
 .photoFigma{
@@ -7,6 +7,7 @@
 }
 
 #entete{
-    margin-top: 30px;
-    
+    margin-top:70px;
+    color:rgb(80, 50, 29);
+   
 }
